@@ -1,0 +1,662 @@
+{
+  "adele": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Adele_2016.jpg/500px-Adele_2016.jpg",
+    "source": "https://en.wikipedia.org/wiki/Adele",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "angelina-jolie": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Angelina_Jolie_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg/500px-Angelina_Jolie_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Angelina%20Jolie",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "anna-kendrick": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Anna_Kendrick_Cannes_2016_2.jpg/500px-Anna_Kendrick_Cannes_2016_2.jpg",
+    "source": "https://en.wikipedia.org/wiki/Anna%20Kendrick",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "ariana-grande": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ariana_Grande_promoting_Wicked_%282024%29.jpg/500px-Ariana_Grande_promoting_Wicked_%282024%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ariana%20Grande",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "arnold-schwarzenegger": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Arnold_Schwarzenegger_2019_%28cropped%29.jpg/500px-Arnold_Schwarzenegger_2019_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Arnold%20Schwarzenegger",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "bad-bunny": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg/500px-Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Bad%20Bunny",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "barack-obama": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/500px-President_Barack_Obama.jpg",
+    "source": "https://en.wikipedia.org/wiki/Barack%20Obama",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "ben-affleck": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Ben_Affleck_on_the_Red_Carpet%2C_SXSW_2023_%28cropped%29.jpg/500px-Ben_Affleck_on_the_Red_Carpet%2C_SXSW_2023_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ben%20Affleck",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "beyonce": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Beyonc%C3%A9_-_Tottenham_Hotspur_Stadium_-_1st_June_2023_%2810_of_118%29_%2852946364598%29_%28best_crop%29.jpg/500px-Beyonc%C3%A9_-_Tottenham_Hotspur_Stadium_-_1st_June_2023_%2810_of_118%29_%2852946364598%29_%28best_crop%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Beyonc%C3%A9",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "bill-gates": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bill_Gates_at_the_European_Commission_-_2025_-_P067383-987995_%28cropped%29.jpg/500px-Bill_Gates_at_the_European_Commission_-_2025_-_P067383-987995_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Bill%20Gates",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "billie-eilish": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/BillieEilishO2140725-39_-_54665577407_%28cropped%29.jpg/500px-BillieEilishO2140725-39_-_54665577407_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Billie%20Eilish",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "brad-pitt": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brad_Pitt-69858.jpg/500px-Brad_Pitt-69858.jpg",
+    "source": "https://en.wikipedia.org/wiki/Brad%20Pitt",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "brock-lesnar": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Brock_Lesnar_At_SummerSlam_2023_%28cropped%29.jpg/500px-Brock_Lesnar_At_SummerSlam_2023_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Brock%20Lesnar",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "bruce-willis": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruce_Willis_by_Gage_Skidmore_3.jpg/500px-Bruce_Willis_by_Gage_Skidmore_3.jpg",
+    "source": "https://en.wikipedia.org/wiki/Bruce%20Willis",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "bruno-mars": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg/500px-BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Bruno%20Mars",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "channing-tatum": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Channing_Tatum_by_Gage_Skidmore_4.jpg/500px-Channing_Tatum_by_Gage_Skidmore_4.jpg",
+    "source": "https://en.wikipedia.org/wiki/Channing%20Tatum",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "charlize-theron": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Charlize-theron-IMG_6045.jpg/500px-Charlize-theron-IMG_6045.jpg",
+    "source": "https://en.wikipedia.org/wiki/Charlize%20Theron",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "chris-evans": {
+    "imageUrl": null,
+    "source": "",
+    "license": ""
+  },
+  "chris-hemsworth": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chris_Hemsworth_-_Crime_101.jpg/500px-Chris_Hemsworth_-_Crime_101.jpg",
+    "source": "https://en.wikipedia.org/wiki/Chris%20Hemsworth",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "chuck-norris": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chuck_Norris_May_2015.jpg/457px-Chuck_Norris_May_2015.jpg",
+    "source": "https://en.wikipedia.org/wiki/Chuck%20Norris",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "conor-mcgregor": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Conor_McGregor_2025.jpeg/500px-Conor_McGregor_2025.jpeg",
+    "source": "https://en.wikipedia.org/wiki/Conor%20McGregor",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "cristiano-ronaldo": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cristiano_Ronaldo_2275_%28cropped%29.jpg/500px-Cristiano_Ronaldo_2275_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Cristiano%20Ronaldo",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "danny-devito": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Danny_DeVito_cropped_and_edited_for_brightness.jpg/500px-Danny_DeVito_cropped_and_edited_for_brightness.jpg",
+    "source": "https://en.wikipedia.org/wiki/Danny%20DeVito",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "david-attenborough": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Weston_Library_Opening_by_John_Cairns_20.3.15-139_David_Attenborough.jpg/486px-Weston_Library_Opening_by_John_Cairns_20.3.15-139_David_Attenborough.jpg",
+    "source": "https://en.wikipedia.org/wiki/David%20Attenborough",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "david-harbour": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/David_Harbour_by_Gage_Skidmore_2.jpg/500px-David_Harbour_by_Gage_Skidmore_2.jpg",
+    "source": "https://en.wikipedia.org/wiki/David%20Harbour",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "donald-trump": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/500px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Donald%20Trump",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "drake": {
+    "imageUrl": null,
+    "source": "",
+    "license": ""
+  },
+  "dua-lipa": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Dua_Lipa-69798_%28cropped%29.jpg/500px-Dua_Lipa-69798_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Dua%20Lipa",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "dwayne-johnson": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dwayne_Johnson-1809_%28cropped%29.jpg/500px-Dwayne_Johnson-1809_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Dwayne%20Johnson",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "ed-sheeran": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ed_Sheeran-6886_%28cropped%29.jpg/500px-Ed_Sheeran-6886_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ed%20Sheeran",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "elon-musk": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Elon_Musk_-_54820081119_%28cropped%29.jpg/500px-Elon_Musk_-_54820081119_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Elon%20Musk",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "elvis-presley": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/500px-Elvis_Presley_promoting_Jailhouse_Rock.jpg",
+    "source": "https://en.wikipedia.org/wiki/Elvis%20Presley",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "emma-stone": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/BugoniaBFILFF101025-27_%2854848940897%29_%28cropped%29.jpg/500px-BugoniaBFILFF101025-27_%2854848940897%29_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Emma%20Stone",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "emma-watson": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Emma_Watson_2013.jpg/492px-Emma_Watson_2013.jpg",
+    "source": "https://en.wikipedia.org/wiki/Emma%20Watson",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "erling-haaland": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Erling_Haaland_June_2025.jpg/500px-Erling_Haaland_June_2025.jpg",
+    "source": "https://en.wikipedia.org/wiki/Erling%20Haaland",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "floyd-mayweather": {
+    "imageUrl": null,
+    "source": "",
+    "license": ""
+  },
+  "gal-gadot": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gal_Gadot_by_Gage_Skidmore_3.jpg/500px-Gal_Gadot_by_Gage_Skidmore_3.jpg",
+    "source": "https://en.wikipedia.org/wiki/Gal%20Gadot",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "gigi-hadid": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Marina_Ruy_Barbosa_com_Gigi_Hadid_em_Paris_%28Gigi_Hadid%29.jpg/500px-Marina_Ruy_Barbosa_com_Gigi_Hadid_em_Paris_%28Gigi_Hadid%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Gigi%20Hadid",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "gordon-ramsay": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gordon_Ramsay_%28cropped%29.jpg/500px-Gordon_Ramsay_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Gordon%20Ramsay",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "harrison-ford": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Harrison_Ford_-_Televerse_2025_%28cropped%29.jpg/500px-Harrison_Ford_-_Televerse_2025_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Harrison%20Ford",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "harry-styles": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/HarryStylesWembley170623_%2865_of_93%29_%2852982678051%29_%28cropped_2%29.jpg/500px-HarryStylesWembley170623_%2865_of_93%29_%2852982678051%29_%28cropped_2%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Harry%20Styles",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "hugh-jackman": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hugh_Jackman_by_Gage_Skidmore_3.jpg/500px-Hugh_Jackman_by_Gage_Skidmore_3.jpg",
+    "source": "https://en.wikipedia.org/wiki/Hugh%20Jackman",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "hulk-hogan": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Hulk_Hogan%2C_circa_1985.jpg/500px-Hulk_Hogan%2C_circa_1985.jpg",
+    "source": "https://en.wikipedia.org/wiki/Hulk%20Hogan",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "jackie-chan": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Jackie_Chan.jpg/500px-Jackie_Chan.jpg",
+    "source": "https://en.wikipedia.org/wiki/Jackie%20Chan",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "jake-paul": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Jake_Paul_%2853116882732%29_%28cropped%29.jpg/500px-Jake_Paul_%2853116882732%29_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Jake%20Paul",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "jason-momoa": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jason_Momoa_%2843055621224%29_%28cropped%29.jpg/500px-Jason_Momoa_%2843055621224%29_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Jason%20Momoa",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "jeff-bezos": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jeff_Bezos_visits_LAAFB_SMC_%283908618%29_%28cropped%29.jpeg/500px-Jeff_Bezos_visits_LAAFB_SMC_%283908618%29_%28cropped%29.jpeg",
+    "source": "https://en.wikipedia.org/wiki/Jeff%20Bezos",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "jennifer-aniston": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/JenniferAnistonHWoFFeb2012.jpg/500px-JenniferAnistonHWoFFeb2012.jpg",
+    "source": "https://en.wikipedia.org/wiki/Jennifer%20Aniston",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "jennifer-lawrence": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jennifer_Lawrence%2C_Cannes_Film_Festival_2025.jpg/500px-Jennifer_Lawrence%2C_Cannes_Film_Festival_2025.jpg",
+    "source": "https://en.wikipedia.org/wiki/Jennifer%20Lawrence",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "jennifer-lopez": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Jennifer_Lopez_at_the_2025_Sundance_Film_Festival_%28cropped_3%29.jpg/500px-Jennifer_Lopez_at_the_2025_Sundance_Film_Festival_%28cropped_3%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Jennifer%20Lopez",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "jimmy-fallon": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Jimmy_Fallon%2C_Montclair_Film_Festival%2C_2013.jpg/433px-Jimmy_Fallon%2C_Montclair_Film_Festival%2C_2013.jpg",
+    "source": "https://en.wikipedia.org/wiki/Jimmy%20Fallon",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "joe-biden": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/500px-Joe_Biden_presidential_portrait.jpg",
+    "source": "https://en.wikipedia.org/wiki/Joe%20Biden",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "joe-rogan": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Joe_Rogan.png/446px-Joe_Rogan.png",
+    "source": "https://en.wikipedia.org/wiki/Joe%20Rogan",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "john-travolta": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/John_Travolta_Cannes_2018_%28cropped%29.jpg/489px-John_Travolta_Cannes_2018_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/John%20Travolta",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "johnny-depp": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Johnny_Depp_2020.jpg",
+    "source": "https://en.wikipedia.org/wiki/Johnny%20Depp",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "justin-bieber": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Justin_Bieber_in_2015.jpg/500px-Justin_Bieber_in_2015.jpg",
+    "source": "https://en.wikipedia.org/wiki/Justin%20Bieber",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "kanye-west": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg/500px-Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kanye%20West",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "kate-middleton": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Princess_of_Wales_at_State_Banquet_2025-09-17_%280.75_crop%29.jpg/423px-Princess_of_Wales_at_State_Banquet_2025-09-17_%280.75_crop%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Catherine%2C%20Princess%20of%20Wales",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "katy-perry": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/KatyPerryWestminst111224_%2881_of_95%29_%2854206733094%29_%28cropped_2%29.jpg/500px-KatyPerryWestminst111224_%2881_of_95%29_%2854206733094%29_%28cropped_2%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Katy%20Perry",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "keanu-reeves": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Keanu_Reeves_at_TIFF_2025_02_%28Cropped%29.jpg/500px-Keanu_Reeves_at_TIFF_2025_02_%28Cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Keanu%20Reeves",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "kelly-ripa": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/KellyRipa2023.jpg/500px-KellyRipa2023.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kelly%20Ripa",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "kendall-jenner": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Kendall_Jenner_for_Adanola_2_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kendall%20Jenner",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "kevin-durant": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kevin_Durant%2C_Paris_2024_%28cropped%29.jpg/500px-Kevin_Durant%2C_Paris_2024_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kevin%20Durant",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "kevin-hart": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kevin_Hart_2014_%28cropped_2%29.jpg/500px-Kevin_Hart_2014_%28cropped_2%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kevin%20Hart",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "khloe-kardashian": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Khloe_Kardashian_Glamour_2.png/500px-Khloe_Kardashian_Glamour_2.png",
+    "source": "https://en.wikipedia.org/wiki/Khlo%C3%A9%20Kardashian",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "kim-kardashian": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kim_Kardashian_West_2014.jpg/500px-Kim_Kardashian_West_2014.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kim%20Kardashian",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "kit-harington": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Kit_harrington_by_sachyn_mital_%28cropped_2%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kit%20Harington",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "kourtney-kardashian": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Kourtney_Kardashian_for_GQ_-_4.png/500px-Kourtney_Kardashian_for_GQ_-_4.png",
+    "source": "https://en.wikipedia.org/wiki/Kourtney%20Kardashian",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "kylian-mbappe": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Picture_with_Mbapp%C3%A9_%28cropped%29.jpg/500px-Picture_with_Mbapp%C3%A9_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kylian%20Mbapp%C3%A9",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "kylie-jenner": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kylie_Jenner1_%28cropped%29.png/500px-Kylie_Jenner1_%28cropped%29.png",
+    "source": "https://en.wikipedia.org/wiki/Kylie%20Jenner",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "lady-gaga": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg/500px-Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Lady%20Gaga",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "lebron-james": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/LeBron_James_%2851959977144%29_%28cropped2%29.jpg/500px-LeBron_James_%2851959977144%29_%28cropped2%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/LeBron%20James",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "leonardo-dicaprio": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/LeoPTABFI191125-28_%28cropped%29.jpg/500px-LeoPTABFI191125-28_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Leonardo%20DiCaprio",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "lewis-hamilton": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg/500px-Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Lewis%20Hamilton",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "lionel-messi": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-178.jpg/500px-Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-178.jpg",
+    "source": "https://en.wikipedia.org/wiki/Lionel%20Messi",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "logan-paul": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logan_Paul_RR25_%28cropped%29.jpg/500px-Logan_Paul_RR25_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Logan%20Paul",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "luka-doncic": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Luka_Doncic_%2851914951721%29_%28cropped1%29.jpg/500px-Luka_Doncic_%2851914951721%29_%28cropped1%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Luka%20Don%C4%8Di%C4%87",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "margot-robbie": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SYDNEY%2C_AUSTRALIA_-_JANUARY_23_Margot_Robbie_arrives_at_the_Australian_Premiere_of_%27I%2C_Tonya%27_on_January_23%2C_2018_in_Sydney%2C_Australia_%2828074883999%29_%28cropped_2%29.jpg/500px-thumbnail.jpg",
+    "source": "https://en.wikipedia.org/wiki/Margot%20Robbie",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "mark-wahlberg": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mark_Wahlberg_2021.jpg/500px-Mark_Wahlberg_2021.jpg",
+    "source": "https://en.wikipedia.org/wiki/Mark%20Wahlberg",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "mark-zuckerberg": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Mark_Zuckerberg_in_September_2025_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Mark%20Zuckerberg",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "megan-fox": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Megan_Fox_-_Jennifer%27s_Body.jpg/500px-Megan_Fox_-_Jennifer%27s_Body.jpg",
+    "source": "https://en.wikipedia.org/wiki/Megan%20Fox",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "meghan-markle": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/SXSW-2024-OB7A9986-alih-Meghan%2C_Duchess_of_Sussex_%28cropped%29.jpg/500px-SXSW-2024-OB7A9986-alih-Meghan%2C_Duchess_of_Sussex_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Meghan%2C%20Duchess%20of%20Sussex",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "michael-j-fox": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Michael_J_Fox_2020.jpg/500px-Michael_J_Fox_2020.jpg",
+    "source": "https://en.wikipedia.org/wiki/Michael%20J.%20Fox",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "michael-jordan": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Michael_Jordan_in_2014.jpg",
+    "source": "https://en.wikipedia.org/wiki/Michael%20Jordan",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "mike-tyson": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Mike_Tyson_Photo_Op_GalaxyCon_Austin_2023.jpg/500px-Mike_Tyson_Photo_Op_GalaxyCon_Austin_2023.jpg",
+    "source": "https://en.wikipedia.org/wiki/Mike%20Tyson",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "miley-cyrus": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Miley_Cyrus_Primavera19_-226_%2848986293772%29_%28cropped%29.jpg/500px-Miley_Cyrus_Primavera19_-226_%2848986293772%29_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Miley%20Cyrus",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "millie-bobby-brown": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Millie_Bobby_Brown_-_MBB_-_4_-_SFM5_-_July_10%2C_2022_at_Stranger_Fan_Meet_5_People_Convention_%28cropped%29.jpg/500px-Millie_Bobby_Brown_-_MBB_-_4_-_SFM5_-_July_10%2C_2022_at_Stranger_Fan_Meet_5_People_Convention_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Millie%20Bobby%20Brown",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "mrbeast": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MrBeast_2023_%28cropped%29.jpg/500px-MrBeast_2023_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/MrBeast",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "natalie-portman": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NataliePortman.jpg/500px-NataliePortman.jpg",
+    "source": "https://en.wikipedia.org/wiki/Natalie%20Portman",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "neymar": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Neymar_Jr._with_Al_Hilal%2C_3_October_2023_-_03_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Neymar",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "nick-jonas": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Nick_Jonas_Cannes_2019_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Nick%20Jonas",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "nicki-minaj": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Nicki_Minaj_2025_%283x4_cropped%29.jpg/500px-Nicki_Minaj_2025_%283x4_cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Nicki%20Minaj",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "nicolas-cage": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Nicolas_Cage_Comic-Con_2011.jpg/500px-Nicolas_Cage_Comic-Con_2011.jpg",
+    "source": "https://en.wikipedia.org/wiki/Nicolas%20Cage",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "nicole-kidman": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nicole_Kidman-66059_%28cropped%29.jpg/500px-Nicole_Kidman-66059_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Nicole%20Kidman",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "oprah-winfrey": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Oprah_Winfrey_2016.jpg/500px-Oprah_Winfrey_2016.jpg",
+    "source": "https://en.wikipedia.org/wiki/Oprah%20Winfrey",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "peter-dinklage": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Peter_Dinklage_by_Gage_Skidmore_2.jpg/500px-Peter_Dinklage_by_Gage_Skidmore_2.jpg",
+    "source": "https://en.wikipedia.org/wiki/Peter%20Dinklage",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "pewdiepie": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pewdiepie_head_shot.jpg/492px-Pewdiepie_head_shot.jpg",
+    "source": "https://en.wikipedia.org/wiki/PewDiePie",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "post-malone": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Post_Malone_July_2021_%28cropped%29.jpg/500px-Post_Malone_July_2021_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Post%20Malone",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "prince-harry": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Prince_Harry_launching_the_2020_Invictus_Games_%28cropped%29.jpg/500px-Prince_Harry_launching_the_2020_Invictus_Games_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Prince%20Harry%2C%20Duke%20of%20Sussex",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "prince-william": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Prince_of_Wales_at_State_Banquet_2025-09-17_%280.75_crop%29.jpg/500px-Prince_of_Wales_at_State_Banquet_2025-09-17_%280.75_crop%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/William%2C%20Prince%20of%20Wales",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "queen-elizabeth-ii": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/500px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Elizabeth%20II",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "randy-orton": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Randy_Orton_RR24_%28cropped%29.jpg/500px-Randy_Orton_RR24_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Randy%20Orton",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "reese-witherspoon": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Reese_Witherspoon_%2829144489784%29_%28cropped%29.jpg/500px-Reese_Witherspoon_%2829144489784%29_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Reese%20Witherspoon",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "rihanna": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rihanna_Fenty_2018.png/500px-Rihanna_Fenty_2018.png",
+    "source": "https://en.wikipedia.org/wiki/Rihanna",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "robert-de-niro": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Robert_de_Niro_Cannes_Film_Festival_%283x4_cropped%29.jpg/500px-Robert_de_Niro_Cannes_Film_Festival_%283x4_cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Robert%20De%20Niro",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "robert-downey-jr": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Robert_Downey_Jr._2014_Comic-Con.jpg/500px-Robert_Downey_Jr._2014_Comic-Con.jpg",
+    "source": "https://en.wikipedia.org/wiki/Robert%20Downey%20Jr.",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "robert-pattinson": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Robert_Pattinson_at_Berlinale_2025.jpg/500px-Robert_Pattinson_at_Berlinale_2025.jpg",
+    "source": "https://en.wikipedia.org/wiki/Robert%20Pattinson",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "roger-federer": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Roger_Federer_2015_%28cropped%29.jpg/500px-Roger_Federer_2015_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Roger%20Federer",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "roman-reigns": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Roman_Reigns_RR25_%281%29_%28headshot%29.jpg/500px-Roman_Reigns_RR25_%281%29_%28headshot%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Roman%20Reigns",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "ryan-reynolds": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_%28cropped%29.jpg/500px-Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ryan%20Reynolds",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "scarlett-johansson": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Scarlett_Johansson-8588.jpg/500px-Scarlett_Johansson-8588.jpg",
+    "source": "https://en.wikipedia.org/wiki/Scarlett%20Johansson",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "selena-gomez": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Selena_Gomez_at_the_2024_Toronto_International_Film_Festival_10_%28cropped%29.jpg/500px-Selena_Gomez_at_the_2024_Toronto_International_Film_Festival_10_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Selena%20Gomez",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "serena-williams": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Serena_Williams_at_the_2025_International_Tennis_Hall_of_Fame_Induction_Ceremony_Press_Conference_%28cropped%29.jpg/500px-Serena_Williams_at_the_2025_International_Tennis_Hall_of_Fame_Induction_Ceremony_Press_Conference_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Serena%20Williams",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "shah-rukh-khan": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Shah_Rukh_Khan_graces_the_launch_of_the_new_Santro.jpg",
+    "source": "https://en.wikipedia.org/wiki/Shah%20Rukh%20Khan",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "shakira": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg/500px-2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg",
+    "source": "https://en.wikipedia.org/wiki/Shakira",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "shaquille-oneal": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TechCrunch_Disrupt_2023_-_Day_1_%28cropped%29.jpg/500px-TechCrunch_Disrupt_2023_-_Day_1_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Shaquille%20O'Neal",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "simon-cowell": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Simon_Cowell_in_December_2011.jpg/500px-Simon_Cowell_in_December_2011.jpg",
+    "source": "https://en.wikipedia.org/wiki/Simon%20Cowell",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "simone-biles": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Simone_Biles_National_Team_2024.jpg/500px-Simone_Biles_National_Team_2024.jpg",
+    "source": "https://en.wikipedia.org/wiki/Simone%20Biles",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "stephen-curry": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Steph_Curry_P20230117AS-1347_%28cropped%29.jpg/500px-Steph_Curry_P20230117AS-1347_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Stephen%20Curry",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "sylvester-stallone": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/P20251206DT-0472_%28cropped%3B_Sylvester_Stallone%29.jpg/488px-P20251206DT-0472_%28cropped%3B_Sylvester_Stallone%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Sylvester%20Stallone",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "taylor-swift": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png/500px-Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png",
+    "source": "https://en.wikipedia.org/wiki/Taylor%20Swift",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "the-weeknd": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/The_Weeknd_Portrait_by_Brian_Ziff.jpg/500px-The_Weeknd_Portrait_by_Brian_Ziff.jpg",
+    "source": "https://en.wikipedia.org/wiki/The%20Weeknd",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "tom-brady": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Tom_Brady_-_240422_191334_%28cropped%29_%28cropped%29.jpg/500px-25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Tom_Brady_-_240422_191334_%28cropped%29_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tom%20Brady",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "tom-cruise": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Tom_Cruise-2428.jpg/500px-Tom_Cruise-2428.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tom%20Cruise",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "tom-hardy": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tom_Hardy_by_Gage_Skidmore_in_2018.jpg/500px-Tom_Hardy_by_Gage_Skidmore_in_2018.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tom%20Hardy",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "tom-holland": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tom_Holland_during_pro-am_Wentworth_golf_club_2023-2.jpg/500px-Tom_Holland_during_pro-am_Wentworth_golf_club_2023-2.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tom%20Holland",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "usain-bolt": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Usain_Bolt_-_240422_190142_%28cropped%29.jpg/500px-25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Usain_Bolt_-_240422_190142_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Usain%20Bolt",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "vin-diesel": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Vin_Diesel_by_Gage_Skidmore_2.jpg/500px-Vin_Diesel_by_Gage_Skidmore_2.jpg",
+    "source": "https://en.wikipedia.org/wiki/Vin%20Diesel",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "will-smith": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834070763%29_%28cropped%29.jpg/500px-TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834070763%29_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Will%20Smith",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "yao-ming": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Yao_Ming_in_2014_%28cropped%29.jpg/500px-Yao_Ming_in_2014_%28cropped%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Yao%20Ming",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "zac-efron": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Zac_Efron_at_the_Baywatch_Red_Carpet_Premiere_Sydney_Australia.jpg/500px-Zac_Efron_at_the_Baywatch_Red_Carpet_Premiere_Sydney_Australia.jpg",
+    "source": "https://en.wikipedia.org/wiki/Zac%20Efron",
+    "license": "CC/Fair Use via Wikipedia"
+  },
+  "zendaya": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Zendaya_-_2019_by_Glenn_Francis.jpg/500px-Zendaya_-_2019_by_Glenn_Francis.jpg",
+    "source": "https://en.wikipedia.org/wiki/Zendaya",
+    "license": "CC/Fair Use via Wikipedia"
+  }
+}
